@@ -1,0 +1,8 @@
+C:\Users\gulca\OneDrive\Masaüstü\SiralamaAlgoritması\bin\Debug\SiralamaAlgoritması.exe.config
+C:\Users\gulca\OneDrive\Masaüstü\SiralamaAlgoritması\bin\Debug\SiralamaAlgoritması.exe
+C:\Users\gulca\OneDrive\Masaüstü\SiralamaAlgoritması\bin\Debug\SiralamaAlgoritması.pdb
+C:\Users\gulca\OneDrive\Masaüstü\SiralamaAlgoritması\obj\Debug\SiralamaAlgoritması.csproj.AssemblyReference.cache
+C:\Users\gulca\OneDrive\Masaüstü\SiralamaAlgoritması\obj\Debug\SiralamaAlgoritması.csproj.SuggestedBindingRedirects.cache
+C:\Users\gulca\OneDrive\Masaüstü\SiralamaAlgoritması\obj\Debug\SiralamaAlgoritması.csproj.CoreCompileInputs.cache
+C:\Users\gulca\OneDrive\Masaüstü\SiralamaAlgoritması\obj\Debug\SiralamaAlgoritması.exe
+C:\Users\gulca\OneDrive\Masaüstü\SiralamaAlgoritması\obj\Debug\SiralamaAlgoritması.pdb
